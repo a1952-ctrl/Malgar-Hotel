@@ -9,7 +9,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/[Uu]ser[Ss]ettings/*
+!/[Uu]ser[Ss]ettings/
+!/[Uu]ser[Ss]ettings/.gitkeep
 *.log
 
 # MemoryCaptures can get excessive in size.
