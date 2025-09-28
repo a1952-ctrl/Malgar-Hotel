@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3dcb7aa3092544f0ab50e0a9fa878ef9
+AudioMixerImporter:
+  externalObjects: {}
+  serializedVersion: 3
+  masterGuid: 430afc7c75ae4a868a9319e49165c014
+  disableResample: 0
+  forceToMono: 0
+  normalize: 0
+  loadInBackground: 0
+  preloadAudioData: 0
+  SampleRateSetting: 0
+  SampleRateOverride: 44100
+  CompressionFormat: 1
+  Quality: 1
+  ConversionMode: 0
